@@ -1,5 +1,4 @@
 # Assignment 3 - 06.11.23
-# G09_Tues_10 - Vilde Riiber Dale & Christine Sande Isaksen
 
 # Task 1 
 SELECT COUNT(*)
